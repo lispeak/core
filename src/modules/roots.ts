@@ -1,4 +1,5 @@
 export default {
-  i: { consonants: "b" },
-  truth: { consonants: "d" },
+  truth: { consonants: "b" },
+  many: { consonants: "m" },
+  time: { consonants: "l" },
 };
