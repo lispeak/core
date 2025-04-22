@@ -1,0 +1,20 @@
+{
+  "name": "lispeak-core",
+  "version": "0.0.1",
+  "description": "Core library for Lispeak language",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lispeak/core.git"
+  },
+  "author": "Sergey Shpadyrev",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "typescript": "^5.8.3"
+  }
+}
