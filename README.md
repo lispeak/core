@@ -7,7 +7,7 @@ Lispeak is a project to create a constructed language. It's inspired by:
 
 ## Alphabet
 
-## Word symmetry
+## Morphology
 
 The basic idea of Lispeak is a word symmetry. 
 
@@ -20,4 +20,10 @@ In every language we have a lot of word pairs with opposite meaning
 - beautiful/ugly
 
 In Lispeak all of these pairs are being formed on morphological level.
+
+## Syntax
+
+All sentenses in Lispeak are S-expressions like in Lisp. 
+
+### Recursion
 
