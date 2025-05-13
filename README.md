@@ -1,4 +1,4 @@
-# LISPEAK
+# Lispeak
 
 Lispeak is a project to create a constructed language. It's inspired by:
 - [Lisp](https://en.wikipedia.org/wiki/Lisp)
