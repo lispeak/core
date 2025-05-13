@@ -71,5 +71,9 @@ The basic idea of Lispeak morphology is a word symmetry. In every language we ha
 
 All sentenses in Lispeak are S-expressions like in Lisp. 
 
+### Abstraction and application
+
+
+
 ### Recursion
 
