@@ -1,9 +1,17 @@
 # Lispeak
 
-Lispeak is a project to create a constructed language. It's inspired by:
+Lispeak is a project to create a constructed language inspired by:
 - [Lisp](https://en.wikipedia.org/wiki/Lisp)
 - [Lojban](https://en.wikipedia.org/wiki/Lojban)
 - [Group theory](https://en.wikipedia.org/wiki/Group_theory)
+
+The main goal of this project is to create a language with the following parameters:
+- Language spec should be written in TypeScript
+- Language spec and development should be completely git-based
+- Language should have morphology based on symmetries like in group theory
+- Language should have syntax structure based on S-expressions like Lisp and Lojban
+- Language should sound well like Italian with all the words ending with vowels 
+
 
 ## Alphabet
 
