@@ -24,7 +24,7 @@ Alphabet of Lispeak is mostly taken from Lojban with a few small changes.
 | Symbol | Description                    | Example Word     | Russian Equivalent |
 |--------|--------------------------------|------------------|--------------------|
 | b      | Voiced bilabial stop           | bagel            | б                  |
-| c      | Unvoiced coronal sibilant      | shark            | ш                  |
+| c      | Unvoiced coronal sibilant      | <b>sh</b>ark     | ш                  |
 | d      | Voiced dental/alveolar stop    | desk             | д                  |
 | f      | Unvoiced labial fricative      | fat              | ф                  |
 | g      | Voiced velar stop              | great            | г                  |
