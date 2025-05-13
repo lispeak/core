@@ -19,5 +19,5 @@ In every language we have a lot of word pairs with opposite meaning
 - stay/move
 - beautiful/ugly
 
-In Lispeak all of these pairs formed on word level.
+In Lispeak all of these pairs are being formed on morphological level.
 
