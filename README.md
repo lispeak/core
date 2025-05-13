@@ -39,7 +39,7 @@ Alphabet of Lispeak is mostly taken from Lojban with a few small changes.
 | s      | Unvoiced alveolar sibilant     | snake            | с                  |
 | t      | Unvoiced dental/alveolar stop  | tarp             | т                  |
 | v      | Voiced labial fricative        | vast             | в                  |
-| y      | Voiced labial fricative        | may              | й                  |
+| y      | Voiced palatal approximant     | may              | й                  |
 | z      | Voiced alveolar sibilant       | ooze             | з                  |
 
 ### Derivative vowels
