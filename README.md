@@ -19,6 +19,20 @@ Alphabet of Lispeak is mostly taken from Lojban with a few small changes.
 | u      | Back close vowel                 | moon        | у                  |
 | i      | Front close vowel                | machine     | и                  |
 
+### Consonants
+
+### Derivative vowels
+
+With help of the `y` consonant we can create derivative vowels: 
+
+| Symbol | Description                       | Example Word | Russian Equivalent |
+|--------|---------------------------------- |--------------|--------------------|
+| ya      | Open vowel                       |  yard        | я                  |
+| yo      | Back mid vowel                   |   yoga       | ё                  |
+| ye      | Front mid vowel                  |  yes         | е                  |
+| yu      | Back close vowel                 |  use         | ю                  |
+
+
 ## Morphology
 
 The basic idea of Lispeak is a word symmetry. 
