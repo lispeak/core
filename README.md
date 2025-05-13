@@ -7,6 +7,15 @@ Lispeak is a project to create a constructed language. It's inspired by:
 
 ## Alphabet
 
+Alphabet of Lispeak is mostly taken from Lojban with a few small changes. 
+
+### Vowels
+- _a_ - Open vowel, as in father
+- _o_ - Back mid vowel, as in _open_
+- _e_ - Front mid vowel, as in _bet_
+- _u_ - Back close vowel, as in _moon_
+- _i_ - Front close vowel, as in _machine_
+
 ## Morphology
 
 The basic idea of Lispeak is a word symmetry. 
