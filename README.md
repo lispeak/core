@@ -10,11 +10,14 @@ Lispeak is a project to create a constructed language. It's inspired by:
 Alphabet of Lispeak is mostly taken from Lojban with a few small changes. 
 
 ### Vowels
-- _a_ - Open vowel, as in father
-- _o_ - Back mid vowel, as in _open_
-- _e_ - Front mid vowel, as in _bet_
-- _u_ - Back close vowel, as in _moon_
-- _i_ - Front close vowel, as in _machine_
+
+| Symbol | Description                      | Example Word | Russian Equivalent |
+|--------|--------------------------------- |-------------|--------------------|
+| a      | Open vowel                       | father      | а                  |
+| o      | Back mid vowel                   | open        | о                  |
+| e      | Front mid vowel                  | bet         | э                  |
+| u      | Back close vowel                 | moon        | у                  |
+| i      | Front close vowel                | machine     | и                  |
 
 ## Morphology
 
