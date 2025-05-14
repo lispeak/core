@@ -95,6 +95,10 @@ Static words mean static objects like "apple" and dynamic words mean some dynami
 
 Main words mean main sentence parts like nouns and verbs. Additional part from noun is adjective and from verb is participle. 
 
+### Symmetry 3: binary oppositions
+
+In language there're a lot of words with opposite meanings like left/right, beautiful/ugly, peace/war. In Lispeak these words come from one root in different morphological forms. 
+
 ## Syntax
 
 All sentenses in Lispeak are S-expressions in prefix notation just like in Lisp: 
