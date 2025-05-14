@@ -126,6 +126,16 @@ Main words mean main sentence parts like nouns and verbs. Additional part from n
 
 ### Symmetry 5: Time
 
+## Words
+
+### Pronouns 
+
+|              | Singular       | Plural         |
+|--------------|----------------|----------------|
+| 1st person   | ba (I)         | bai (we)       |
+| 2nd person   | bu (you)       | bui (you)      |
+| 3rd person   | bo (he/she/it) | boi (they)     |
+
 ### Numerals
 
 Numerals in Lispeak are derived from alphabet.
