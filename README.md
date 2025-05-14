@@ -95,7 +95,7 @@ The first letter of the word is always one of vowels `a`,`e`,`o`,`u`. The defaul
 
 ### Symmetry 2: Static/dynamic words
 
-Static words mean static objects like "apple" and dynamic words mean some dynamic action like "to walk".  
+Static words mean static objects like "apple" and dynamic words mean some dynamic action like "to walk". It's similar to nouns and verbs.
 
 ### Symmetry 3: Main/additional words
 
