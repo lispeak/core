@@ -122,7 +122,8 @@ o elis doktor
 ### Recursion
 
 For language recursion (not to be confused with algorithmic recursion) Lispeak uses two particles:  
-- Recursion down: `e`
-- Recursion up `u`
+- Recursion down: word `e`
+- Recursion up word `u`
+
 It works similar to parentheses in Lisp.
 
