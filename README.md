@@ -90,6 +90,8 @@ In language there're a lot of words with opposite meanings like left/right, beau
 
 
 The base of every word is root that consists out of consonants only. It can consist of one, two, three or four letters just like in Hebrew.
+The first letter of the word is always one of vowels `a`,`e`,`o`,`u`. The default form is right. Adding `y` to the first vowel makes it left. 
+
 
 ### Symmetry 2: Static/dynamic words
 
