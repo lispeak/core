@@ -112,7 +112,7 @@ Every verb in Lispeak is an operation too.
 
 ### Equality
 
-One of the basic language operations is eqality that is used for creating named expressions. It's defined with one letter word `o`.
+One of the basic language operations is equality that is used for creating named expressions. It's defined with one letter word `o`.
 
 ```
 o {left} {right}
