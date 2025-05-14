@@ -129,8 +129,25 @@ Main words mean main sentence parts like nouns and verbs. Additional part from n
 
 Numerals in Lispeak are derived from alphabet.
 
-
-
+```
+0 - ia
+1 - ib
+2 - ic
+3 - id 
+4 - ie 
+5 - if
+6 - ig
+7 - ih
+8 - ii
+9 - ij
+```
+```
+10 - ibia
+11 - ibia ib
+12 - ibia ic
+...
+19 - ibia ij
+```
 ## Syntax
 
 All sentenses in Lispeak are S-expressions in prefix notation just like in Lisp: 
