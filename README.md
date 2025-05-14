@@ -123,11 +123,19 @@ One of the basic language operations is equality that is used for creating named
 o {left} {right}
 ```
 
-E.g.:
+It means `left equals right`
+E.g. to say `Alice is a doctor`:
 
 ```
 o elis doktor
 ```
+
+So `yo` is the negated `o` meaning `not equals`:
+
+```
+yo {left} {right}
+```
+It means `left not equals right`.
 
 ### Recursion
 
