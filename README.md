@@ -27,6 +27,10 @@ The main goal of this project is to create a language with the following paramet
 
 Alphabet of Lispeak is mostly taken from Lojban with a few small changes. 
 
+```
+abcdefghijklmnoprstuvyz
+```
+
 ### Vowels
 
 | Symbol | Description                      | Example Word | Russian Equivalent |
@@ -120,6 +124,12 @@ Main words mean main sentence parts like nouns and verbs. Additional part from n
 ### Symmetry 4: Perfection/processing
 
 ### Symmetry 5: Time
+
+### Numerals
+
+Numerals in Lispeak are derived from alphabet.
+
+
 
 ## Syntax
 
