@@ -58,7 +58,7 @@ With help of the `y` consonant we can create derivative vowels:
 | Symbol | Description                       | Example Word | Russian Equivalent |
 |--------|---------------------------------- |--------------|--------------------|
 | ya      | Open vowel                       |  yard        | я                  |
-| yo      | Back mid vowel                   |   yoga       | ё                  |
+| yo      | Back mid vowel                   |  yoga        | ё                  |
 | ye      | Front mid vowel                  |  yes         | е                  |
 | yu      | Back close vowel                 |  use         | ю                  |
 
@@ -69,11 +69,22 @@ The basic idea of Lispeak morphology is a word symmetry. In every language we ha
 
 ## Syntax
 
-All sentenses in Lispeak are S-expressions like in Lisp. 
+All sentenses in Lispeak are S-expressions in prefix notation just like in Lisp: 
 
-### Abstraction and application
+```
+(operation operand1 operand2 operand3)
+```
 
+### Definition
 
+One of the basic language operations is a definition of a named expression.
+
+```
+o {name} {value}
+```
 
 ### Recursion
+
+Recursing down: `e`
+Recursing up `u`
 
