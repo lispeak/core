@@ -89,7 +89,7 @@ The basic idea of Lispeak morphology are symmetries.
 
 ### Symmetry 1: static/dynamic words
 
-Static words mean static objects like nouns and pronouns and dynamic words mean some dynamic actions are like verbs.  
+Static words mean static objects like "apple" and dynamic words mean some dynamic action like "to walk".  
 
 ### Symmetry 2: main/additional words
 
