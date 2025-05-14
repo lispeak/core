@@ -85,7 +85,15 @@ For morphology purposes Lispeak split most of the letters to pairs:
 
 ## Morphology
 
-The basic idea of Lispeak morphology is a word symmetry. In every language we have a lot of word pairs with opposite meaning like left/right, dark/light, past/future, greater/less, stay/move, beautiful/ugly, etc. In Lispeak all of these pairs are being formed on morphological level. The pairs are formed by `a/u` and `e/i` sounds for opposites and `o` for the neutrals.
+The basic idea of Lispeak morphology is a word symmetry. In every language we have a lot of word pairs with opposite meaning like left/right, dark/light, past/future, greater/less, stay/move, beautiful/ugly, etc. In Lispeak all of these pairs are being formed on morphological level. 
+
+### Symmetry 1: static/dynamic words
+
+Static words mean static objects like nouns and pronouns and dynamic words mean some dynamic actions are like verbs.  
+
+### Symmetry 2: main/additional words
+
+Main words mean main sentence parts like nouns and verbs. Additional part from noun is adjective and from verb is participle. 
 
 ## Syntax
 
