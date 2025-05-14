@@ -85,6 +85,7 @@ In language there're a lot of words with opposite meanings like left/right, beau
 | ugly      | beautiful |
 | dark      | light     |
 | minus     | plus      |
+| to        | from      |
 
 ### Symmetry 2: Static/dynamic words
 
