@@ -62,21 +62,6 @@ With help of the `y` consonant we can create derivative vowels:
 | ye      | Front mid vowel                  |  yes         | е                  |
 | yu      | Back close vowel                 |  use         | ю                  |
 
-### Pairs
-
-For morphology purposes Lispeak split most of the letters to pairs:
-
-| Left | Right | 
-|------|------ |
-| a    | e     | 
-| u    | i     | 
-| b    | p     |
-| z    | s     |
-| d    | t     |
-| v    | f     |
-| g    | k     |
-| j    | c     |
-
 ### Special signs 
 
 | Symbol | Description                                | Example Word | Russian Equivalent |
@@ -97,7 +82,17 @@ Main words mean main sentence parts like nouns and verbs. Additional part from n
 
 ### Symmetry 3: binary oppositions
 
-In language there're a lot of words with opposite meanings like left/right, beautiful/ugly, peace/war. In Lispeak these words come from one root in different morphological forms. 
+In language there're a lot of words with opposite meanings like left/right, beautiful/ugly, peace/war. In Lispeak these words come from one root in different morphological forms. So many roots have left and right forms like:
+
+| Left      | Right     |
+|-----------|-----------|
+| left      | right     |
+| down      | up        |
+| back      | forward   |
+| negative  | positive  |
+| ugly      | beautiful |
+| dark      | light     |
+| minus     | plus      |
 
 ## Syntax
 
