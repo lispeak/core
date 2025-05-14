@@ -10,8 +10,8 @@ The main goal of this project is to create a language with the following paramet
 - Language spec should be written in TypeScript
 - Language spec and development should be completely git-based
 - Language should have morphology based on symmetries like in group theory
-- Language should have syntax structure based on S-expressions like Lisp and Lojban
-- Language should sound well like Italian with all the words ending with vowels 
+- Language should have syntax structure based on S-expressions like Lisp 
+- Language should sound well 
 
 
 ## Alphabet
@@ -87,6 +87,9 @@ In language there're a lot of words with opposite meanings like left/right, beau
 | minus     | plus      |
 | from      | to        |
 | pull      | push      |
+
+
+The base of every word is root that consists out of consonants only. It can consist of one, two, three or four letters just like in Hebrew.
 
 ### Symmetry 2: Static/dynamic words
 
