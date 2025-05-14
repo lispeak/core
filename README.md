@@ -62,6 +62,20 @@ With help of the `y` consonant we can create derivative vowels:
 | ye      | Front mid vowel                  |  yes         | е                  |
 | yu      | Back close vowel                 |  use         | ю                  |
 
+### Pairs
+
+For morphology purposes Lispeak split most of the letters to pairs:
+
+| Left | Right | 
+|------|------ |
+| a    | e     | 
+| u    | i     | 
+| b    | p     |
+| z    | s     |
+| d    | t     |
+| v    | f     |
+| g    | k     |
+| j    | c     |
 
 ## Morphology
 
