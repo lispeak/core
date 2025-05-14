@@ -128,7 +128,7 @@ All sentenses in Lispeak are S-expressions in prefix notation just like in Lisp:
 (operation operand1 operand2 operand3)
 ```
 
-Every verb in Lispeak is an operation too.
+E.g. `I love you` will sound in Lispeak like `love I you`.
 
 ### Equality
 
