@@ -151,13 +151,23 @@ Numerals in Lispeak are derived from alphabet.
 ```
 
 ```
+20 - idibia
+30 - igibia
+...
+90 - izibia 
+```
+
+```
 100 - ibiarid
-1000 - ibiarig 
+200 - idibiarid 
+1000 - ibiarig
+2000 - idibiarig
 10000 - ibiariv
 ```
 
 ```
 111 - ibiarid ibia ib
+237 - idibiarid igibia in
 ```
 ## Syntax
 
