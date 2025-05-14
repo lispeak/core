@@ -148,6 +148,12 @@ Numerals in Lispeak are derived from alphabet.
 ...
 19 - ibia ij
 ```
+
+```
+100 - ibiaric
+1000 - ibiarid
+10000 - ibiarid
+```
 ## Syntax
 
 All sentenses in Lispeak are S-expressions in prefix notation just like in Lisp: 
