@@ -85,6 +85,8 @@ o {name} {value}
 
 ### Recursion
 
-Recursing down: `e`
-Recursing up `u`
+For language recursion (not to be confused with algorithmic recursion) Lispeak uses two particles:  
+- Recursion down: `e`
+- Recursion up `u`
+It works similar to parentheses in Lisp.
 
