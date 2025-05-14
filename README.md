@@ -130,11 +130,15 @@ Main words mean main sentence parts like nouns and verbs. Additional part from n
 
 ### Pronouns 
 
-|              | Singular       | Plural         |
-|--------------|----------------|----------------|
-| 1st person   | ba (I)         | bai (we)       |
-| 2nd person   | bu (you)       | bui (you)      |
-| 3rd person   | bo (he/she/it) | boi (they)     |
+| Person        | Lispeak | English   | Russian    |
+|---------------|---------|-----------|------------|
+| 1st Singular  |   ba    | I         | Я          |
+| 1st Plural    |   bai   | We        | Мы         |
+| 2nd Singular  |   bu    | You       | Ты         |
+| 2nd Plural    |   bui   | You       | Вы         |
+| 3rd Singular  |   bo    | He/She/It | Он/Она/Оно |
+| 3rd Plural    |   boi   | They      | Они        |
+
 
 ### Numerals
 
