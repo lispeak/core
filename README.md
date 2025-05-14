@@ -75,12 +75,20 @@ All sentenses in Lispeak are S-expressions in prefix notation just like in Lisp:
 (operation operand1 operand2 operand3)
 ```
 
-### Definition
+Every verb in Lispeak is an operation too.
 
-One of the basic language operations is a definition of a named expression.
+### Equality
+
+One of the basic language operations is eqality that is used for creating named expressions. It's defined with one letter word `o`.
 
 ```
-o {name} {value}
+o {left} {right}
+```
+
+E.g.:
+
+```
+o elis doktor
 ```
 
 ### Recursion
