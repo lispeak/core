@@ -1,6 +1,10 @@
 # Lispeak
 
-Lispeak is a project to create a constructed language inspired by:
+Lispeak is a project to create a constructed language
+
+## Inspiration
+
+Lispeak is inspired by:
 - [Lambda-calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
 - [Lisp](https://en.wikipedia.org/wiki/Lisp)
 - [Lojban](https://en.wikipedia.org/wiki/Lojban)
