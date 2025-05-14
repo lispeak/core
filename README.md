@@ -72,15 +72,7 @@ With help of the `y` consonant we can create derivative vowels:
 
 The basic idea of Lispeak morphology are symmetries.
 
-### Symmetry 1: static/dynamic words
-
-Static words mean static objects like "apple" and dynamic words mean some dynamic action like "to walk".  
-
-### Symmetry 2: main/additional words
-
-Main words mean main sentence parts like nouns and verbs. Additional part from noun is adjective and from verb is participle. 
-
-### Symmetry 3: binary oppositions
+### Symmetry 1: Binary oppositions
 
 In language there're a lot of words with opposite meanings like left/right, beautiful/ugly, peace/war. In Lispeak these words come from one root in different morphological forms. So many roots have left and right forms like:
 
@@ -93,6 +85,18 @@ In language there're a lot of words with opposite meanings like left/right, beau
 | ugly      | beautiful |
 | dark      | light     |
 | minus     | plus      |
+
+### Symmetry 2: Static/dynamic words
+
+Static words mean static objects like "apple" and dynamic words mean some dynamic action like "to walk".  
+
+### Symmetry 3: Main/additional words
+
+Main words mean main sentence parts like nouns and verbs. Additional part from noun is adjective and from verb is participle. 
+
+### Symmetry 4: Perfection/processing
+
+### Symmetry 5: Time
 
 ## Syntax
 
