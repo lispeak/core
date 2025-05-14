@@ -28,7 +28,7 @@ The main goal of this project is to create a language with the following paramet
 Alphabet of Lispeak is mostly taken from Lojban with a few small changes. 
 
 ```
-abcdefghijklmnoprstuvyz
+abcdefghijklmnoprstuvxyz
 ```
 
 ### Vowels
@@ -61,6 +61,7 @@ abcdefghijklmnoprstuvyz
 | s      | Unvoiced alveolar sibilant     | snake            | с                  |
 | t      | Unvoiced dental/alveolar stop  | tarp             | т                  |
 | v      | Voiced labial fricative        | vast             | в                  |
+| x      | Voiced palatal approximant     | <b>ch<b/>ipotle  | ч                  |
 | y      | Voiced palatal approximant     | may / (fr.) Paul | й/ь                |
 | z      | Voiced alveolar sibilant       | ooze             | з                  |
 
