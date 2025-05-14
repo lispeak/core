@@ -81,7 +81,7 @@ For morphology purposes Lispeak split most of the letters to pairs:
 
 | Symbol | Description                                | Example Word | Russian Equivalent |
 |--------|--------------------------------------------|--------------|--------------------|
-| -      | stop or a pause in the middle of the word  |              | ъ                  |
+| '      | stop or a pause in the middle of the word  |              | ъ                  |
 
 ## Morphology
 
