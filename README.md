@@ -182,10 +182,12 @@ Numerals in Lispeak are derived from alphabet.
 10000 - biarji
 ```
 
+
 ```
-111 - biardi bia bi
-237 - dibiardi gibia ni
+111 - e biardi bia bi u
+237 - e dibiardi gibia ni u
 ```
+
 ## Syntax
 
 All sentenses in Lispeak are S-expressions in prefix notation just like in Lisp: 
