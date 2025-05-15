@@ -184,8 +184,8 @@ Numerals in Lispeak are derived from alphabet.
 
 
 ```
-111 - e biardi bia bi u
-237 - e dibiardi gibia ni u
+111 - u biardi bia bi yu
+237 - u dibiardi gibia ni yu
 ```
 
 ## Syntax
@@ -223,13 +223,13 @@ It means `left not equals right`.
 ### Recursion
 
 For language recursion (not to be confused with algorithmic recursion) Lispeak uses two particles:  
-- Recursion down: word `e`
-- Recursion up word `u`
+- Recursion down: word `u`
+- Recursion up word `yu`
 
 It works similar to parentheses in Lisp.
 
 So if we want to speak something like `x1 (x2 x3 x4) x5 (x6 x7)` we will say:
 ```
-x1 e x2 x3 x4 u x5 e x6 x7 u
+x1 u x2 x3 x4 yu x5 u x6 x7 yu
 ```
 
