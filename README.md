@@ -146,42 +146,42 @@ Numerals in Lispeak are derived from alphabet.
 
 ```
 0 - ia
-1 - ib
-2 - id
-3 - ig
-4 - ij
-5 - il
-6 - im
-7 - in
-8 - iv 
-9 - iz
+1 - bi
+2 - di
+3 - gi
+4 - ji
+5 - li
+6 - mi 
+7 - ni
+8 - vi
+9 - zi
 ```
 ```
-10 - ibia
-11 - ibia ib
-12 - ibia id
+10 - bia
+11 - bia bi
+12 - bia di
 ...
-19 - ibia iz
+19 - bia zi
 ```
 
 ```
-20 - idibia
-30 - igibia
+20 - dibia
+30 - gibia
 ...
-90 - izibia 
+90 - zibia 
 ```
 
 ```
-100 - ibiarid
-200 - idibiarid 
-1000 - ibiarig
-2000 - idibiarig
-10000 - ibiariv
+100 - biardi
+200 - dibiardi 
+1000 - biargi
+2000 - dibiargi
+10000 - biarji
 ```
 
 ```
-111 - ibiarid ibia ib
-237 - idibiarid igibia in
+111 - biardi bia bi
+237 - dibiardi gibia ni
 ```
 ## Syntax
 
