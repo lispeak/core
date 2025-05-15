@@ -223,3 +223,8 @@ For language recursion (not to be confused with algorithmic recursion) Lispeak u
 
 It works similar to parentheses in Lisp.
 
+So if we want to speak something like `x1 (x2 x3 x4) x5 (x6 x7)` we will say:
+```
+x1 e x2 x3 x4 u x5 e x6 x7
+```
+
