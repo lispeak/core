@@ -111,8 +111,8 @@ The first letter of the word is always one of vowels `a`,`e`,`o`,`u`. The defaul
 
 E.g.: 
 ```
-o  - yes
-yo - no
+o  - equals
+yo - not equals
 ```
 
 ### Symmetry 2: Static and dynamic words
