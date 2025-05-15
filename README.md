@@ -114,17 +114,19 @@ o  - yes
 yo - no
 ```
 
-### Symmetry 2: Static/dynamic words
+### Symmetry 2: Static and dynamic words
 
 Static words mean static objects like "apple" and dynamic words mean some dynamic action like "to walk". It's similar to nouns and verbs.
 
-### Symmetry 3: Main/additional words
+### Symmetry 3: Main and additional words
 
 Main words mean main sentence parts like nouns and verbs. Additional part from noun is adjective and from verb is participle. 
 
-### Symmetry 4: Perfection/processing
+### Symmetry 4: Perfect and processing actions
 
-### Symmetry 5: Time
+### Symmetry 5: Past and future time
+
+### Symmentry 6: Male and female gender
 
 ## Words
 
