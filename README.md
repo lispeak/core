@@ -85,11 +85,7 @@ With help of the `y` consonant we can create derivative vowels:
 
 ## Morphology
 
-The basic idea of Lispeak morphology are symmetries.
-
-### Symmetry 1: Binary oppositions
-
-In language there're a lot of words with opposite meanings. In Lispeak these words come from one root in different morphological forms. So many roots have left and right forms like:
+The basic idea of Lispeak morphology are symmetries. In language there're a lot of words with opposite meanings. In Lispeak these words come from one root in different morphological forms. So many roots have left and right forms like:
 
 | Left      | Right     |
 |-----------|-----------|
@@ -116,20 +112,6 @@ yo - not equals
 u - open parentheses (language recursion down)
 yu - close parentheses (language recursion back up)
 ```
-
-### Symmetry 2: Static and dynamic words
-
-Static words mean static objects like "apple" and dynamic words mean some dynamic action like "to walk". It's similar to nouns and verbs.
-
-### Symmetry 3: Main and additional words
-
-Main words mean main sentence parts like nouns and verbs. Additional part from noun is adjective and from verb is participle. 
-
-### Symmetry 4: Perfect and processing actions
-
-### Symmetry 5: Past and future time
-
-### Symmentry 6: Male and female gender
 
 ## Words
 
@@ -221,6 +203,23 @@ So `yo` is the negated `o` meaning `not equals`:
 yo {left} {right}
 ```
 It means `left not equals right`.
+
+### Modificators 
+
+#### Static and dynamic words
+
+Static words mean static objects like "apple" and dynamic words mean some dynamic action like "to walk". It's similar to nouns and verbs.
+
+#### Relation words
+
+- Adjectives from static words
+- Participles from dynamic words
+
+#### Perfection and imperfection 
+
+#### Past and future time
+
+#### Male and female gender
 
 ### Recursion
 
