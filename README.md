@@ -61,7 +61,7 @@ abcdefghijklmnoprstuvxyz
 | s      | Unvoiced alveolar sibilant     | snake            | с                  |
 | t      | Unvoiced dental/alveolar stop  | tarp             | т                  |
 | v      | Voiced labial fricative        | vast             | в                  |
-| x      | Voiced palatal approximant     | <b>ch<b/>ipotle  | ч                  |
+| x      | Voiceless palatal affricate    | <b>ch</b>ipotle  | ч                  |
 | y      | Voiced palatal approximant     | may / (fr.) Paul | й/ь                |
 | z      | Voiced alveolar sibilant       | ooze             | з                  |
 
