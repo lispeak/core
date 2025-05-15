@@ -20,7 +20,8 @@ The main goal of this project is to create a language with the following paramet
 - Language morphology should have based on symmetries like in group theory
 - Language syntax should have structure based on S-expressions like in Lisp
 - Language should be compatible with any natural language (you can use words from your language inside of Lispeak sentences)
-- Language should sound well 
+- Language should sound well
+- Language should be able to be executable by computer interpreter like Lisp 
 
 
 ## Alphabet
