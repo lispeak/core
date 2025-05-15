@@ -113,6 +113,23 @@ u - open parentheses (language recursion down)
 yu - close parentheses (language recursion back up)
 ```
 
+### Modificators 
+
+#### Static and dynamic words
+
+Static words mean static objects like "apple" and dynamic words mean some dynamic action like "to walk". It's similar to nouns and verbs.
+
+#### Relation words
+
+- Adjectives from static words
+- Participles from dynamic words
+
+#### Perfection and imperfection 
+
+#### Past and future time
+
+#### Male and female gender
+
 ## Words
 
 ### Pronouns 
@@ -203,23 +220,6 @@ So `yo` is the negated `o` meaning `not equals`:
 yo {left} {right}
 ```
 It means `left not equals right`.
-
-### Modificators 
-
-#### Static and dynamic words
-
-Static words mean static objects like "apple" and dynamic words mean some dynamic action like "to walk". It's similar to nouns and verbs.
-
-#### Relation words
-
-- Adjectives from static words
-- Participles from dynamic words
-
-#### Perfection and imperfection 
-
-#### Past and future time
-
-#### Male and female gender
 
 ### Recursion
 
