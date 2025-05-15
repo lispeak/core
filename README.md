@@ -107,8 +107,6 @@ The first letter of the word is always one of vowels `a`,`e`,`o`,`u`. The defaul
 
 E.g.: 
 ```
-o  - equals
-yo - not equals
 u - open parentheses (language recursion down)
 yu - close parentheses (language recursion back up)
 ```
@@ -199,7 +197,7 @@ All sentenses in Lispeak are S-expressions in prefix notation just like in Lisp:
 
 E.g. `I love you` will sound in Lispeak like `love I you`.
 
-### Equality
+### Define
 
 One of the basic language operations is equality that is used for creating named expressions. It's defined with one letter word `o`.
 
@@ -207,19 +205,12 @@ One of the basic language operations is equality that is used for creating named
 o {left} {right}
 ```
 
-It means `left equals right`
+It means `define left equals right`
 E.g. to say `Alice is a doctor`:
 
 ```
 o elis doktor
 ```
-
-So `yo` is the negated `o` meaning `not equals`:
-
-```
-yo {left} {right}
-```
-It means `left not equals right`.
 
 ### Recursion
 
