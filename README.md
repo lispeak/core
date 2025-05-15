@@ -113,6 +113,8 @@ E.g.:
 ```
 o  - equals
 yo - not equals
+u - open parentheses (language recursion down)
+yu - close parentheses (language recursion back up)
 ```
 
 ### Symmetry 2: Static and dynamic words
