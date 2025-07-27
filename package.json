@@ -10,15 +10,15 @@
     ],
     "scripts": {
         "build": "tsup src/index.ts --format esm,cjs --dts --out-dir dist",
-        "start": "ts-node src/index.ts"
+        "start": "tsx src/index.ts"
     },
     "author": "Sergey Shpadyrev",
     "license": "ISC",
     "type": "module",
     "devDependencies": {
-        "ts-node": "^10.9.2",
-        "tsup": "^8.5.0",
-        "typescript": "^5.8.3"
+        "tsup": "8.5.0",
+        "tsx": "4.20.3",
+        "typescript": "5.8.3"
     },
     "exports": {
         ".": {
@@ -27,6 +27,6 @@
         }
     },
     "dependencies": {
-        "ohm-js": "^17.1.0"
+        "ohm-js": "17.1.0"
     }
 }
