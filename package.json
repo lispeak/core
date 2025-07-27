@@ -1,5 +1,5 @@
 {
-    "name": "@lispeak/core",
+    "name": "@lispeak/parser",
     "version": "0.0.1",
     "description": "Core package for Lispeak language",
     "main": "dist/index.js",
@@ -10,7 +10,7 @@
     ],
     "scripts": {
         "build": "tsup src/index.ts --format esm,cjs --dts --out-dir dist",
-        "start": "tsx src/index.ts"
+        "start": "tsx src/index.test.ts"
     },
     "author": "Sergey Shpadyrev",
     "license": "ISC",
