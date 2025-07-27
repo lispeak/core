@@ -10,14 +10,14 @@ const parse = (source: string) => {
     }
     console.log('Successfully matched');
 
-    // try {
-    //     const ast = semantics(matchResult).ast();
-    //     console.log('Successfully parsed');
-    //     console.log(ast);
-    // } catch (error) {
-    //     console.log('Failed to parse');
-    //     console.log(error);
-    // }
+    try {
+        const ast = semantics(matchResult).ast();
+        console.log('Successfully parsed');
+        console.log(ast);
+    } catch (error) {
+        console.log('Failed to parse');
+        console.log(error);
+    }
 };
 
 export default parse;

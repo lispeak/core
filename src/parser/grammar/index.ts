@@ -2,11 +2,11 @@ import * as ohm from 'ohm-js';
 
 const grammar = ohm.grammar(`
 Lispeak { 
-  program = (space* expr space*)* 
+  program = expr* 
 
   atom = identifier | number
   expr = atom | list
-  list =  "(" space? expr (space+ expr)* space? ")"
+  list =  space* "(" space? expr (space+ expr)* space? ")" space*
 
   identifier = char+
   number = digit+

@@ -1,4 +1,4 @@
 import parse from './parser';
 
-const source = `(a b c)`;
+const source = `a`;
 parse(source);
