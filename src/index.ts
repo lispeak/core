@@ -4,20 +4,33 @@ const grammar = ohm.grammar(`
 Lispeak { 
   program = (space* expr space*)* 
 
-  expr = char+ | number | list
+  atom = identifier | number
+  expr = atom | list
   list =  "(" space? expr (space+ expr)* space? ")"
 
+  identifier = char+
   number = digit+
   char  = letter | digit | "-" | "~" | ">" | "<" 
 }
 `);
 
-const source = `
-(a b (c d) e)
-(b c d)
-(1 2 3) (4 5 6)
-`;
+const source = `(a b c)`;
+const run = () => {
+    const matchResult = grammar.match(source);
+    if (!matchResult.succeeded()) {
+        console.log('Failed to match');
+        console.log(matchResult.message);
+        return;
+    }
+    console.log('Successfully matched');
 
-const matchResult = grammar.match(source);
-console.log(matchResult.succeeded());
-console.log(matchResult.message);
+    // try {
+    //     const ast = semantics(matchResult).ast();
+    //     console.log('Successfully parsed');
+    //     console.log(ast);
+    // } catch (error) {
+    //     console.log('Failed to parse');
+    //     console.log(error);
+    // }
+};
+run();
