@@ -1,27 +1,32 @@
 {
-  "name": "@lispeak/core",
-  "version": "0.0.1",
-  "description": "Core package for Lispeak language",
-  "main": "dist/index.js",
-  "module": "dist/index.mjs",
-  "types": "dist/index.d.ts",
-  "files": [
-    "dist"
-  ],
-  "scripts": {
-    "build": "tsup src/index.ts --format esm,cjs --dts --out-dir dist"
-  },
-  "author": "Sergey Shpadyrev",
-  "license": "ISC",
-  "type": "module",
-  "devDependencies": {
-    "tsup": "^8.5.0",
-    "typescript": "^5.8.3"
-  },
-  "exports": {
-    ".": {
-      "import": "./dist/index.mjs",
-      "require": "./dist/index.js"
+    "name": "@lispeak/core",
+    "version": "0.0.1",
+    "description": "Core package for Lispeak language",
+    "main": "dist/index.js",
+    "module": "dist/index.mjs",
+    "types": "dist/index.d.ts",
+    "files": [
+        "dist"
+    ],
+    "scripts": {
+        "build": "tsup src/index.ts --format esm,cjs --dts --out-dir dist",
+        "start": "ts-node src/index.ts"
+    },
+    "author": "Sergey Shpadyrev",
+    "license": "ISC",
+    "type": "module",
+    "devDependencies": {
+        "ts-node": "^10.9.2",
+        "tsup": "^8.5.0",
+        "typescript": "^5.8.3"
+    },
+    "exports": {
+        ".": {
+            "import": "./dist/index.mjs",
+            "require": "./dist/index.js"
+        }
+    },
+    "dependencies": {
+        "ohm-js": "^17.1.0"
     }
-  }
 }
