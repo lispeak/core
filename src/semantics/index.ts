@@ -14,9 +14,6 @@ const semantics = grammar.createSemantics().addOperation('ast', {
     char(chars) {
         return this.sourceString;
     },
-    number(chars) {
-        return this.sourceString.includes('.') ? parseFloat(this.sourceString) : parseInt(this.sourceString, 10);
-    },
     program(expressions) {
         return expressions.ast();
     },
