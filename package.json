@@ -10,12 +10,16 @@
     ],
     "scripts": {
         "build": "tsup src/index.ts --format esm,cjs --dts --out-dir dist",
-        "start": "tsx src/index.test.ts"
+        "test": "jest"
     },
     "author": "Sergey Shpadyrev",
     "license": "ISC",
     "type": "module",
     "devDependencies": {
+        "@jest/globals": "^30.0.5",
+        "jest": "^30.0.5",
+        "jest-environment-node": "^30.0.5",
+        "ts-jest": "^29.4.0",
         "tsup": "8.5.0",
         "tsx": "4.20.3",
         "typescript": "5.8.3"
